@@ -84,7 +84,7 @@ Derived from the module Gradle configuration:
 | **Minimum Android SDK** | API 24 (Android 7.0 Nougat) |
 | **Target SDK** | API 36 |
 | **Compile SDK** | API 36 |
-| **JDK** | Java 11 |
+| **JDK** | Java 21 (builds Java 11 bytecode) |
 | **Kotlin** | 2.2.10 |
 | **Android Gradle Plugin** | 9.1.1 |
 
