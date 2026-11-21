@@ -1,0 +1,6 @@
+{
+  "name": "DZ Contact Fixer",
+  "description": "Pairs Algerian mobile numbers (+213 and 0X formats) for universal car Bluetooth Caller ID and clean contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
